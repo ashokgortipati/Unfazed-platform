@@ -1,0 +1,23 @@
+{
+  "name": "unfazed-platform",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Unfazed - Mental Wellness & Therapist Management Platform",
+  "scripts": {
+    "start:backend": "cd backend && npm start",
+    "dev:backend": "cd backend && npm run dev",
+    "dev:client": "cd client && npm run dev",
+    "seed": "cd backend && npm run seed",
+    "build:client": "cd client && npm run build"
+  },
+  "keywords": [
+    "mental-health",
+    "therapist-management",
+    "react",
+    "nodejs",
+    "express",
+    "mongodb"
+  ],
+  "author": "Unfazed Team",
+  "license": "ISC"
+}
